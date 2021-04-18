@@ -1,3 +1,7 @@
+header{
+    background-color: ghostwhite
+}
+
 h1{
   text-align: center;
   color: red;
@@ -12,10 +16,31 @@ a{
   text-decoration: none;
 }
 
-nav{
+nav ul li{
+   display: inline;
+   margin: 10px;
+   }
+  main article h4{
+       border: 1px solid black;
+       padding: 10px;
+       margin: 30px;
+  }
+nav ul li a{
+   text-decoration: none;
+}
+
+ main article img{
+     width:80%;
+     opacity: 1;
+ }
   background-color: black;
    text-align: center;
-}
+   padding: 10px;
+
+  margin : 15px;
+   font-size:22px;
+   text-decoration: none;
+  }
 
 img{
   width: 500px;
