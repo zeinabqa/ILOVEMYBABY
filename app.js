@@ -40,3 +40,4 @@ var imageNumber = prompt('How Many Image Do You Want Me To Show ?');
 for (var i = 0; i < imageNumber; i++) {
   document.write(clothes);
 }
+
