@@ -1,7 +1,7 @@
 //function expression getAge
 
 var getAge-function(){
-   console.log('your children above 2 years');
+   console.log('your children getAge');
 }
 //call the function 
 getAge();
